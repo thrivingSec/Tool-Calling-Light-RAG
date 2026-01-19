@@ -2,6 +2,10 @@
 
 A full-stack **Retrieval Augmented Generation (RAG)** application with intelligent routing that combines web search capabilities with a local knowledge base. Built with LangChain Expression Language (LCEL), this project demonstrates advanced tool calling patterns for AI-powered question answering.
 
+![Landing Page](./screenshots/LCEL.png)
+![KB_Landing Page](./screenshots/kb.png)
+![KB_Ingestion_Landing Page](./screenshots/kb_ingestion_query.png)
+
 ## ✨ Features
 
 - **🤖 Intelligent Query Routing**: Automatically determines whether to use web search or query the local knowledge base based on query patterns
